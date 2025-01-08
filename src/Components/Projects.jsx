@@ -18,7 +18,7 @@ function Projects() {
             payments.
           </p>
         </div>
-        <div className="project-item">
+        {/* <div className="project-item">
           <p className="proj-name">LearnHub</p>
           <p className="proj-desc">
             An online learning platform I developed using React for the frontend
@@ -36,7 +36,7 @@ function Projects() {
                 > Quick look-Demo Video
                 </button>
             </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
